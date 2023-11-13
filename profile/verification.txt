@@ -1,0 +1,1 @@
+Verifying that I control the following Nostr public key: npub1fmunwy3lljfyzlgyuyman79lxwm4efz6pzlgqjwc400pr9l708qquvje8w
